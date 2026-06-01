@@ -11,6 +11,12 @@ In addition to displaying the battery level, it also displays the current CPU us
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)  
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<img width="133" height="125" alt="image" src="https://github.com/user-attachments/assets/c65a3ec0-b58e-404a-abd5-e4891ba8bbca" />
+<img width="132" height="117" alt="image" src="https://github.com/user-attachments/assets/6a7429ff-8a3a-4c6b-a00a-69fdff368eec" />
+<img width="132" height="117" alt="image" src="https://github.com/user-attachments/assets/83f055dd-2484-408b-82ed-9ea188aa1c9c" />
+
+
+
 ## Table of Contents
 
 -   [Installation](#installation)
