@@ -1,0 +1,10 @@
+*.exe
+*.out
+*.app
+*.a
+*.so
+*.dll
+*.lib
+*.o
+*.win
+*.layout
